@@ -1,8 +1,7 @@
 ## Realtime search feature with Pusher.
 
-A live commenting system with Laravel, Vue.js using Pusher for realtime stuff 
+A live messaging system with Laravel, Vue.js using Pusher for realtime stuff 
 
-![application screenshot](public/images/live_comments_laravel_pusher.gif "A live commenting system with Laravel, Vue.js and Pusher")
 
 
 ## Getting Started
