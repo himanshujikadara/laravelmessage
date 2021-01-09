@@ -14,7 +14,6 @@ Make sure you have `npm` and `yarn` on your local machine
 4.  Set up your database in your `.env` file and run php `php artisan migrate`
 5.  Execute `npm run dev` to build project assets
 6.  Execute `php artisan serve` to run the project in your browser
-7.  See the [tutorial](https://pusher.com/tutorials/live-comments-laravel-vue) for useful notes 
 
 ### Prerequisites
 
@@ -32,7 +31,3 @@ Make sure you have `npm` and `yarn` on your local machine
 * [Vue](https://vuejs.org/) - A Great reactive Js framework
 * [Vuex](https://vuex.vuejs.org/) - Vuejs state management made simple
 * [Axios](https://vuejs.org/) - A Js library to handle ajax requests easily
-
-##Acknowledgments
-
-[Saqueib Ansari tutorial](https://www.qcode.in/getting-started-vue-js-making-comment-app/) - Inspiring and useful article
